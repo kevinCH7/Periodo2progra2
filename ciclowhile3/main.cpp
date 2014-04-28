@@ -22,6 +22,7 @@ int main()
         {
           mayor=num;
         }
+
         if(num < menor)
         {
             menor=num;
