@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399326870 source:c:\users\kevin\documents\github\periodo2progra2\prueba2solucion\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
