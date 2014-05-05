@@ -13,5 +13,6 @@ int main()
     rev = n % 10;
     cout<<rev;
 
+
     return 0;
 }
